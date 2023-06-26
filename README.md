@@ -18,7 +18,7 @@
 
 
 🏆 Award
-- Dacon ‘데이콘 Basic 칼로리 소모량 예측 AI 경진대회’ 수상 
+- Dacon ‘데이콘 Basic 칼로리 소모량 예측 AI 경진대회’ 수상 https://dacon.io/codeshare/8202
 
 🪪 Certificate
 - 2022.09.23 리눅스마스터 2급 취득
