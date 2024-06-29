@@ -19,7 +19,7 @@
 
 🏆 Award
 - Dacon ‘데이콘 칼로리 소모량 예측 AI 경진대회’ 수상 https://dacon.io/codeshare/8202
-
+- Korea Clinical Datathon 2024 Grand prize 🥇
 🪪 Certificate
 - 2023.07.14 빅데이터 분석기사 취득
 - 2022.09.23 리눅스마스터 2급 취득
